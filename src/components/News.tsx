@@ -17,7 +17,7 @@ const news = [
     date: '01.03.2024',
     title: 'WLAN-Passwort aktualisiert',
     content:
-      'Das WLAN-Passwort wurde aktualisiert. Ihr findet es im Willkommensordner.',
+      'Das WLAN-Passwort wurde aktualisiert. Ihr findet es im Willkommensordner.s',
   },
 ];
 
