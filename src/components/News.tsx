@@ -14,10 +14,10 @@ const news = [
       'Das WLAN-Passwort wurde aktualisiert. Ihr findet es im Willkommensordner.',
   },
   {
-    date: '01.03.2024',
-    title: 'WLAN-Passwort aktualisiert',
+    date: '24.03.2024',
+    title: 'Neue Funktionen der Essensauswahl',
     content:
-      'Das WLAN-Passwort wurde aktualisiert. Ihr findet es im Willkommensordner.s',
+      'Die Möglichkeit besteht, nun auch vegan vegetarisch etc. auszuwählen',
   },
 ];
 
